@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SUMMER ADVENTURE",
+  "base_artist": "久島 鴎（CV.稗田寧々）、VISUAL ARTS / Key",
+  "createdAt": "2026-03-22T17:39:55.143578Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUMMER ADVENTURE",
+      "artist": "久島 鴎(CV.稗田寧々) & VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_01_SUMMER_ADVENTURE_久島_鴎(CV.稗田寧々)_&_VISUAL_ARTS___Key.txt"
+    }
+  ]
+}
